@@ -19,6 +19,7 @@ This repository provides a basic setup for sending and optionally receiving mess
 ## Notes
 
 - Make sure you have your discord webhook url and bot token configured in the scripts
+- please also note this is not finished and was made in 20 mins.
 
 ## License
 
